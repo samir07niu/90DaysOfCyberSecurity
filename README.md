@@ -8,6 +8,7 @@
 ## ✅ Track your progress
 
 Open **[PROGRESS.md](./PROGRESS.md)** — all 90 days as checkboxes. Tick off each day as you finish it.
+Daily files live in **[days/](./days/)** — one file per day (Day 1 is live, then one new day every evening at 19:30 IST).
 No prior experience needed. 1–2 focused hours a day.
 
 ---
