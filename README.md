@@ -1,4 +1,16 @@
-# 90-Day Cybersecurity Study Plan
+# 90-Day Cybersecurity Study Plan — Student Edition 🎓
+
+> **Forked from [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)** (MIT License — see [License.md](./License.md)).
+> Maintained by **Samir Raja (CYBER07)** — BCA Cyber Security student, NIU.
+> This Student Edition keeps the original 90-day roadmap and adds what the original was missing:
+> a **day-by-day checklist**, daily hands-on tasks, and a **Hindi + English** path for Indian students.
+
+## ✅ Track your progress
+
+Open **[PROGRESS.md](./PROGRESS.md)** — all 90 days as checkboxes. Tick off each day as you finish it.
+No prior experience needed. 1–2 focused hours a day.
+
+---
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -47,6 +59,14 @@ The daily modules cover essential and advanced topics, including:
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
 
+## ✨ What's different in this Student Edition
+
+- **Day-by-day checklist** — every one of the 90 days has its own task in [PROGRESS.md](./PROGRESS.md), not just week blocks.
+- **Daily hands-on task** — each day ends with something to *do* (a command, a lab, a small build), not just a video to watch.
+- **Hindi + English** — the plan is written in simple English, and a full Hindi README is in [translations/hindi](./translations/hindi/README.md).
+- **Indian-student friendly** — free resources only, no paid courses needed; TryHackMe free rooms and home-lab options included.
+- **Original roadmap preserved** — all the original resources are still here in [learn.md](./learn.md), with credit to the original author.
+
 ## 🎯 Goals and Audience
 
 ### 📌 Goals
@@ -81,9 +101,9 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - **Time budget:** aim for 1-2 focused hours a day. The day numbers are a guide, not a deadline; it is fine to spend longer on a topic.
 - **Follow the order:** Days 1-28 (networking, security basics, Linux) are the foundation everything else builds on. Do not skip ahead to hacking.
 - **Certifications are optional:** the Network+ and Security+ playlists teach the concepts you need. You do not have to sit the exams to follow this plan or to get a first job.
-- **Track your progress:** fork this repo (or copy the plan into a notes file) and tick off each day as you finish it.
+- **Track your progress:** use **[PROGRESS.md](./PROGRESS.md)** and tick off each day as you finish it. Fork this repo to save your own progress.
 - **Everything is free:** if a site puts content behind a paywall, use the alternatives listed in the same section or in [`learn.md`](./learn.md).
-- **Questions or study buddies:** use [GitHub Discussions](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/discussions). Issues are for broken links and content fixes.
+- **Questions or study buddies:** use [GitHub Discussions](https://github.com/samir07niu/90DaysOfCyberSecurity/discussions). Issues are for broken links and content fixes.
 - **Prefer another language?** See [Translations](#translations).
 
 ## Day 1-7: Network+
